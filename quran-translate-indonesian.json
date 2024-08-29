@@ -1,23 +1,25 @@
 {
-  "Al-Fatiha": {
+  "1": {
+    "surah": "Al-Fatiha",
     "meaning": "Pembuka",
-    "no_surah": "1",
     "total_ayat": 7,
     "ayat": [
+      "",
       "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
       "Segala puji bagi Allah, Tuhan semesta alam",
       "Yang Maha Pengasih, lagi Maha Penyayang,",
       "Pemilik hari Pembalasan.",
       "Hanya Kepada Engkaulah kami Menyembah dan Hanya Kepada Engkaulah kami Memohon Pertolongan.",
       "Bimbinglah, kami ke jalan yang lurus,",
-      "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.."
+      "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
     ]
   },
-  "Al-Baqarah": {
+  "2": {
+    "surah": "Al-Baqarah",
     "meaning": "Sapi Betina",
-    "no_surah": "2",
     "total_ayat": 286,
     "ayat": [
+      "",
       "",
       "Kitab (Al-Qur’an) ini tidak ada keraguan di dalamnya; (ia merupakan) petunjuk bagi orang-orang yang bertakwa,",
       "(yaitu) orang-orang yang beriman pada yang gaib, menegakkan salat, dan menginfakkan sebagian rezeki yang Kami anugerahkan kepada mereka,",
