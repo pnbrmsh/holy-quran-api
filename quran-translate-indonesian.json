@@ -5,13 +5,13 @@
     "total_ayat": 7,
     "ayat": [
       "",
-      "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
-      "Segala puji bagi Allah, Tuhan semesta alam",
-      "Yang Maha Pengasih, lagi Maha Penyayang,",
-      "Pemilik hari Pembalasan.",
-      "Hanya Kepada Engkaulah kami Menyembah dan Hanya Kepada Engkaulah kami Memohon Pertolongan.",
-      "Bimbinglah, kami ke jalan yang lurus,",
-      "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
+      "1. Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
+      "2. Segala puji bagi Allah, Tuhan semesta alam",
+      "3. Yang Maha Pengasih, lagi Maha Penyayang,",
+      "4. Pemilik hari Pembalasan.",
+      "5. Hanya Kepada Engkaulah kami Menyembah dan Hanya Kepada Engkaulah kami Memohon Pertolongan.",
+      "6. Bimbinglah, kami ke jalan yang lurus,",
+      "7. (yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat."
     ]
   },
   "2": {
@@ -20,16 +20,26 @@
     "total_ayat": 286,
     "ayat": [
       "",
-      "Alif Lām Mīm",
-      "Kitab (Al-Qur’an) ini tidak ada keraguan di dalamnya; (ia merupakan) petunjuk bagi orang-orang yang bertakwa,",
-      "(yaitu) orang-orang yang beriman pada yang gaib, menegakkan salat, dan menginfakkan sebagian rezeki yang Kami anugerahkan kepada mereka,",
-      "dan mereka yang beriman pada (Al-Qur’an) yang diturunkan kepadamu (Nabi Muhammad) dan (kitab-kitab suci) yang telah diturunkan sebelum engkau dan mereka yakin akan adanya akhirat.",
-      "Merekalah yang mendapat petunjuk dari Tuhannya dan mereka itulah orang-orang yang beruntung.",
-      "Sesungguhnya orang-orang yang kufur itu sama saja bagi mereka, apakah engkau (Nabi Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman.",
-      "Allah telah mengunci hati dan pendengaran mereka. Pada penglihatan mereka ada penutup, dan bagi mereka azab yang sangat berat.",
-      "Di antara manusia ada yang berkata, “Kami beriman kepada Allah dan hari Akhir,” padahal sesungguhnya mereka itu bukanlah orang-orang mukmin.",
-      "Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari.",
-      "Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya dan mereka mendapat azab yang sangat pedih karena mereka selalu berdusta."
+      "1. Alif Lām Mīm",
+      "2. Kitab (Al-Qur’an) ini tidak ada keraguan di dalamnya; (ia merupakan) petunjuk bagi orang-orang yang bertakwa,",
+      "3. (yaitu) orang-orang yang beriman pada yang gaib, menegakkan salat, dan menginfakkan sebagian rezeki yang Kami anugerahkan kepada mereka,",
+      "4. dan mereka yang beriman pada (Al-Qur’an) yang diturunkan kepadamu (Nabi Muhammad) dan (kitab-kitab suci) yang telah diturunkan sebelum engkau dan mereka yakin akan adanya akhirat.",
+      "5. Merekalah yang mendapat petunjuk dari Tuhannya dan mereka itulah orang-orang yang beruntung.",
+      "6. Sesungguhnya orang-orang yang kufur itu sama saja bagi mereka, apakah engkau (Nabi Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman.",
+      "7. Allah telah mengunci hati dan pendengaran mereka. Pada penglihatan mereka ada penutup, dan bagi mereka azab yang sangat berat.",
+      "8. Di antara manusia ada yang berkata, “Kami beriman kepada Allah dan hari Akhir,” padahal sesungguhnya mereka itu bukanlah orang-orang mukmin.",
+      "9. Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu diri sendiri tanpa mereka sadari.",
+      "10. Dalam hati mereka ada penyakit, lalu Allah menambah penyakitnya dan mereka mendapat azab yang sangat pedih karena mereka selalu berdusta.",
+      "11. Dan apabila dikatakan kepada mereka, “Janganlah kamu membuat kerusakan di muka bumi,” mereka menjawab, “Sesungguhnya kami justru orang-orang yang melakukan perbaikan.”",
+      "12. Ingatlah, sesungguhnya mereka itulah orang-orang yang membuat kerusakan, tetapi mereka tidak sadar.",
+      "13. Apabila dikatakan kepada mereka, “Berimanlah kamu sebagaimana orang-orang lain telah beriman,” mereka menjawab, “Akankah kami beriman sebagaimana orang-orang bodoh itu beriman?” Ingatlah, sesungguhnya merekalah orang-orang yang bodoh, tetapi mereka tidak tahu.",
+      "14. Dan bila mereka berjumpa dengan orang-orang yang beriman, mereka berkata, “Kami telah beriman.” Tetapi bila mereka kembali kepada setan-setan mereka, mereka berkata, “Sesungguhnya kami bersama kamu, kami hanya berolok-olok.”",
+      "15. Allah akan (membalas) olok-olokan mereka dan membiarkan mereka terombang-ambing dalam kesesatan mereka.",
+      "16. Mereka itulah orang yang membeli kesesatan dengan petunjuk. Maka tidaklah beruntung perdagangan mereka, dan tidaklah mereka mendapat petunjuk.",
+      "17. Perumpamaan mereka adalah seperti orang yang menyalakan api, setelah api itu menerangi sekitarnya, Allah hilangkan cahaya (yang menyinari) mereka dan membiarkan mereka dalam kegelapan, tidak dapat melihat.",
+      "18. Mereka tuli, bisu, dan buta, maka tidaklah mereka akan kembali (ke jalan yang benar).",
+      "19. Atau seperti (orang yang ditimpa) hujan lebat dari langit yang disertai kegelapan, guruh dan kilat; mereka menyumbat telinganya dengan anak jarinya karena (mendengar suara) petir, sebab takut akan mati. Dan Allah meliputi orang-orang yang kafir.",
+      "20. Hampir-hampir kilat itu menyambar penglihatan mereka. Setiap kali kilat itu menyinari mereka, mereka berjalan di bawahnya, dan apabila gelap menimpa mereka, mereka berhenti. Jika Allah menghendaki, niscaya Dia hilangkan pendengaran dan penglihatan mereka. Sesungguhnya Allah Maha Kuasa atas segala sesuatu."
     ]
   }
 }
